@@ -18,7 +18,7 @@ export const About = () => {
         <div className='row'>
        
         <div className='col-md-6'>
-          <img src="about2.png" className='about_img'/>
+          <img src="about2.png" className='about_img' alt="image1"/>
         </div>
        <div className='col-md-6'>
         <br></br>
@@ -35,7 +35,7 @@ export const About = () => {
               <div className='row'>
                 <div class='col-md-4'>
                   <div className='about-item text-center'>
-                    <img src='./about_1.jpg'  className='about_img'/>
+                    <img src='./about_1.jpg' alt="image2" className='about_img'/>
                     <h3 className='about_h3'>Smart Contactless Business Cards for the digital age team</h3>
                     <hr className='about_hr'></hr>
                     <p className='about_p'>Get your customized business card with us in minutes. Your card is in your pocket that never tears or never runs out of copies. You can easily update your business card with our user friendly dashboard.</p>
@@ -44,7 +44,7 @@ export const About = () => {
                 </div>
                 <div class='col-md-4'>
                   <div className='about-item text-center'>
-                    <img src="./about1.png" className='about_img' />
+                    <img src="./about1.png" alt="image3" className='about_img' />
                     <h3 className='about_h3'>Turn your phone into a Lead Conversion Machine.</h3>
                     <hr className='about_hr'></hr>
                     <p className='about_p'>You can express yourself in ways like never before with a business card, you can showcase your work by uploading rich content such as photos, videos and custom links. You can also attach a document or pdf file</p>
@@ -53,7 +53,7 @@ export const About = () => {
                 </div>
                 <div className='col-md-4'>
                   <div className='about-item text-center'>
-                    <img src="./about_2.png" className='about_img' />
+                    <img src="./about_2.png" alt="image4" className='about_img' />
                     <h3 className='about_h3'>Easily share and receive the Smart Visiting Cards through QR Code </h3>
                     <hr className='about_hr'></hr>
                     <p className='about_p'>Take the shortest route towards your customers through their mobile phones, Utilize our share option and make your brand viral by sharing your Digital Business card with your clients and connections. </p>

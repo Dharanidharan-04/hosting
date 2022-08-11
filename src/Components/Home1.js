@@ -9,15 +9,15 @@ function Home1() {
         <div className='row'>
        
         <div className='col-md-6'>
-          <img src="home.png" width={"80%"} height={"100%"} />
-        </div>
+          <img src="home.png" alt="imagehome" width={"80%"} height={"100%"} />
+        </div> 
        <div className='col-md-4'>
         <br></br>
         <h2 className='about_h3' style={{color:"white",padding:"30px"}}>DIGITAL BUSINESS CARD<br></br>For Digital INDIA </h2>
         
         <p className='about_p' style={{color:"white"}}>Create an impression to your clients with your digital business card</p>
 
-           <button class="button-28" role="button">Create Card</button>
+           <button class="button-28">Create Card</button>
 
 
         </div>
@@ -30,7 +30,7 @@ function Home1() {
               <div className='row'>
                 <div class='col-md-4'>
                   <div className='about-item text-center'>
-                  <a href="register"> <img src='./about_1.jpg'  className='about_img'/> </a>
+                  <a href="register"> <img src='./about_1.jpg' alt='imagehome2' className='about_img'/> </a>
                     <h3 className='about_h3'>Step 1</h3>
                     <hr className='about_hr'></hr>
                     <p className='about_p'>Register the account</p>
@@ -39,7 +39,7 @@ function Home1() {
                 </div>
                 <div class='col-md-4'>
                   <div className='about-item text-center'>
-                   <a href="register"><img src="./about1.png" className='about_img' /> </a>
+                   <a href="register"><img src="./about1.png" alt="image8" className='about_img' /> </a>
                     <h3 className='about_h3'>Step 2</h3>
                     <hr className='about_hr'></hr>
                     <p className='about_p'>Enter Business Details</p>
@@ -48,7 +48,7 @@ function Home1() {
                 </div>
                 <div className='col-md-4'>
                   <div className='about-item text-center'>
-                    <a href="register"><img src="./about_2.png" className='about_img' /></a>
+                    <a href="register"><img src="./about_2.png" alt="image0" className='about_img' /></a>
                     <h3 className='about_h3'>Step 3</h3>
                     <hr className='about_hr'></hr>
                     <p className='about_p'>Share the link </p>
