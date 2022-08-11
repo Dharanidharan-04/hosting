@@ -1,0 +1,25 @@
+.price-heading{
+    font-size: 30px;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+   font-style: italic;
+   
+
+
+}
+
+.price-img{
+    background-color: rgba(137, 43, 206, 0.151);
+}
+.price-head{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+     padding: 20px;
+}
+.price-amount{
+   
+    text-align: center;
+    height: 120px;
+}
